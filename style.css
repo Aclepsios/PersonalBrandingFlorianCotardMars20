@@ -137,10 +137,10 @@ header{display:flex;flex-direction: column; align-items: center;background-color
 #t7{grid-column: 1/4; grid-row: 7;margin-left: 150px ; margin-top: 20px; }
 #t8{grid-column: 1/4; grid-row: 8; margin-left:auto;margin-right:auto }
 #t9{margin-left:0px}
-    #t10{grid-column:1/4; margin-left:auto; margin-right:auto}
-    #t16{grid-column:1/4; margin-left:auto; margin-right:auto}
-    #t17{grid-column:1/4; margin-left:auto; margin-right:auto}
-    #t18{grid-column:1/4; margin-left:auto; margin-right:auto}
+#t10{grid-column: 1/4;grid-row: 1;margin-top: 50px;}
+#t16{grid-column: 1/4;grid-row: 2;margin-top: 50px;}
+#t17{grid-column: 1/4; grid-row:3; margin-top: 50px}
+#t18{grid-column: 1/4; grid-row:4; margin-top: 50px;}
 #portrait{text-align: center;}
 #postbac{display:block;margin-left:auto;margin-right: auto;}
 
