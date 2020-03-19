@@ -136,6 +136,7 @@ header{display:flex;flex-direction: column; align-items: center;background-color
 #t6{grid-column: 1/4; grid-row: 6;}
 #t7{grid-column: 1/4; grid-row: 7;margin-left: 150px ; margin-top: 20px; }
 #t8{grid-column: 1/4; grid-row: 8; margin-left:auto;margin-right:auto }
+#t9{margin-left:0px}
 #portrait{text-align: center;}
 #postbac{display:block;margin-left:auto;margin-right: auto;}
 
